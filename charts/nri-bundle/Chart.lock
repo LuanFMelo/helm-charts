@@ -22,7 +22,7 @@ dependencies:
   version: 2.3.0
 - name: newrelic-logging
   repository: https://newrelic.github.io/helm-charts
-  version: 1.12.0
+  version: 1.12.1
 - name: newrelic-pixie
   repository: https://newrelic.github.io/helm-charts
   version: 2.0.2
@@ -32,5 +32,5 @@ dependencies:
 - name: newrelic-infra-operator
   repository: https://newrelic.github.io/newrelic-infra-operator
   version: 2.0.0
-digest: sha256:fbbd30684f4d14b7830b4239729b66fd5abb98fe54cc6d004dde0804265b5bba
-generated: "2022-11-30T17:51:32.970975+01:00"
+digest: sha256:8ef50c8f2dfba748e5b176e76b45869818ad542bb1fb9f6b8524c989f003e813
+generated: "2022-12-09T12:02:58.291202365Z"
